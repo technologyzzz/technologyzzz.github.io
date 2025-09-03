@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E in Computer Science - Informatics Engineering , Gunadarma University, 2029 (expected)
+
 
 Work experience
 ======
@@ -27,19 +26,34 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research & Publication
+* Prompt Engineering
+  * System prompts for daily use (on portfolio)
+* Python
+  * More than 120+ project done (on Github)
+* Machine Learning
+  * Scikit-learn
+  * Tensorflow
+* Data Engineering
+  * Numpy
+  * Panda
+  * MySQL
+* Version Control
+  * CI/CD pipeline
+  * Git & Github
+  * Docker
+  * Kubernetes
+
+Certification
+======
+* AI Foundations and Generative AI - Oracle, 2025
+* Python Megaclass 100 Project - School of AI, 2025
+* AI Powered Data & Product - MTF Institute of Management, Technology, and Finance, 2025
+* MS Excel - Anton Voroniuk, Udemy
+*
 
 Publications
 ======
