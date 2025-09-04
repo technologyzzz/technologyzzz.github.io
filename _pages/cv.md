@@ -49,11 +49,42 @@ Skills
 
 Certification
 ======
-* AI Foundations and Generative AI - Oracle, 2025
-* Python Megaclass 100 Project - School of AI, 2025
-* AI Powered Data & Product - MTF Institute of Management, Technology, and Finance, 2025
-* MS Excel - Anton Voroniuk, Udemy
-*
+* Oracle, 2025            - AI Foundations Associate
+* Oracle, 2025            - Generative AI Professional
+* MTF Institute, 2025     - AI Powered Data & Product
+* IBM, 2025               - Code Generations and Optimization
+* IBM, 2025               - Data Classification and Summarization
+* School of AI, 2025      - Python Megaclass 300 Project
+
+* Google, 2025            - Use Machine Learning APIs on Google Cloud
+* Infusion X, 2025        - Computer Engineering Mastery
+* Learnsector LLP, 2025   - Explore AGI
+* School of AI, 2026      - DeepSeek 25 Practical Project for AI Developers
+* Manthan Patel Udemy     - Cold Email Mastery with AI
+
+* Google, 2026            - Gemini for Data Scientist and Analysis
+* Anton Udemy, 2025       - MS Excel
+* Anton Udemy, 2026       - Data Analysis & Visualization with Microsoft Copilot
+* RCM Academy, 2026       - GDPR and Data Protection
+* Google, 2026            - Store, Process, and Manage Data on Google Cloud Console
+* School of AI, 2026      - LLM Engineer 100 Project
+* GenMan Solutions, 2026  - Product Manager
+
+* LunarTech AI, 2026      - DL Interview
+* School of AI, 2026      - Power of MCP
+* Bert Udemy, 2026        - PyTorch Ultimate
+
+* Google, 2026            - Explore GenAI with the Gemini API in VertexAI
+* Google, 2026            - Prompt Design in VertexAI
+* Google, 2026            - Develop GenAI Apps with Gemini and Streamlit
+
+* Google, 2026            - NLP on Google Cloud
+* Google, 2026            - Advance ML on Google Cloud
+* Google, 2026            - Build and Deploy Machine Learning Solutions on Vertex AI
+* Google, 2026            - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+* Google, 2026            - Building Batch Data Pipelines on Google Cloud
+
+
 
 Publications
 ======
