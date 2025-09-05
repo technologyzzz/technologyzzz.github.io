@@ -57,26 +57,26 @@ Certification
 * School of AI, 2025      - Python Megaclass 300 Project
 
 * Google, 2025            - Use Machine Learning APIs on Google Cloud
-* Infusion X, 2025        - Computer Engineering Mastery
+* School of AI, 2026      - Power of MCP
 * Learnsector LLP, 2025   - Explore AGI
 * School of AI, 2026      - DeepSeek 25 Practical Project for AI Developers
+* Google, 2026            - Explore GenAI with the Gemini API in VertexAI
+* Google, 2026            - Prompt Design in VertexAI
+* Google, 2026            - Develop GenAI Apps with Gemini and Streamlit
 * Manthan Patel Udemy     - Cold Email Mastery with AI
+* School of AI, 2026      - LLM Engineer 100 Project
+
 
 * Google, 2026            - Gemini for Data Scientist and Analysis
 * Anton Udemy, 2025       - MS Excel
 * Anton Udemy, 2026       - Data Analysis & Visualization with Microsoft Copilot
 * RCM Academy, 2026       - GDPR and Data Protection
 * Google, 2026            - Store, Process, and Manage Data on Google Cloud Console
-* School of AI, 2026      - LLM Engineer 100 Project
 * GenMan Solutions, 2026  - Product Manager
+* Infusion X, 2025        - Computer Engineering Mastery
 
 * LunarTech AI, 2026      - DL Interview
-* School of AI, 2026      - Power of MCP
 * Bert Udemy, 2026        - PyTorch Ultimate
-
-* Google, 2026            - Explore GenAI with the Gemini API in VertexAI
-* Google, 2026            - Prompt Design in VertexAI
-* Google, 2026            - Develop GenAI Apps with Gemini and Streamlit
 
 * Google, 2026            - NLP on Google Cloud
 * Google, 2026            - Advance ML on Google Cloud
