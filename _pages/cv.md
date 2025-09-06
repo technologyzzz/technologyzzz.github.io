@@ -47,6 +47,23 @@ Skills
   * Docker
   * Kubernetes
 
+
+Roadmap
+======
++ Pandas - data analysis FakeProject on Economic field - Presentation portofolio
+
++ Khan Academy            - Statistics and Probability - Apply on FakeProject - Serious on this
+                          - KPI: theory, concepts, tools
+
++ Khan/3Blue1Brown        - Linear Algebra & Calculus
+                          - KPI : tools & rules
+
++ Infinite codes          - Simple ML Algorithm Mastery (initial concept before deep learning)
++ Stanford Online         - Statistical Learning with python
+ 
++ Genius move             - Implement python from scratch and Scikit-learn using a dataset
+
+
 Certification
 ======
 * Oracle, 2025            - AI Foundations Associate
@@ -54,35 +71,52 @@ Certification
 * MTF Institute, 2025     - AI Powered Data & Product
 * IBM, 2025               - Code Generations and Optimization
 * IBM, 2025               - Data Classification and Summarization
-* School of AI, 2025      - Python Megaclass 300 Project
 
-* Google, 2025            - Use Machine Learning APIs on Google Cloud
+* School of AI, 2025      - Python Megaclass 300 Project
++ Explore the Roadmap
+
+* Google, 2026            - Store, Process, and Manage Data on Google Cloud Console
+* Google, 2026            - Gemini for Data Scientist and Analysis
+* Anton Udemy, 2026       - Data Analysis & Visualization with Microsoft Copilot
+* RCM Academy, 2026       - GDPR and Data Protection
+* Nasir Udemy             - Master BI, SSIS, SSRS, SSAS, & MDX
+
 * School of AI, 2026      - Power of MCP
 * Learnsector LLP, 2025   - Explore AGI
 * School of AI, 2026      - DeepSeek 25 Practical Project for AI Developers
+
+
+* Google, 2025            - Use Machine Learning APIs on Google Cloud
 * Google, 2026            - Explore GenAI with the Gemini API in VertexAI
 * Google, 2026            - Prompt Design in VertexAI
-* Google, 2026            - Develop GenAI Apps with Gemini and Streamlit
-* Manthan Patel Udemy     - Cold Email Mastery with AI
 * School of AI, 2026      - LLM Engineer 100 Project
 
+* Google, 2026            - Develop GenAI Apps with Gemini and Streamlit
+* Google, 2026            - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+* Manthan Patel Udemy     - Cold Email Mastery with AI
 
-* Google, 2026            - Gemini for Data Scientist and Analysis
-* Anton Udemy, 2025       - MS Excel
-* Anton Udemy, 2026       - Data Analysis & Visualization with Microsoft Copilot
-* RCM Academy, 2026       - GDPR and Data Protection
-* Google, 2026            - Store, Process, and Manage Data on Google Cloud Console
+* Jitendra Udemy          - 100+ Python Coding Practice Test
+
+* Google, 2026            - Advance ML on Google Cloud
+* Google, 2026            - Build and Deploy Machine Learning Solutions on Vertex AI
+* Google, 2026            - NLP on Google Cloud
+* Google, 2026            - Building Batch Data Pipelines on Google Cloud
+
 * GenMan Solutions, 2026  - Product Manager
 * Infusion X, 2025        - Computer Engineering Mastery
 
 * LunarTech AI, 2026      - DL Interview
 * Bert Udemy, 2026        - PyTorch Ultimate
 
-* Google, 2026            - NLP on Google Cloud
-* Google, 2026            - Advance ML on Google Cloud
-* Google, 2026            - Build and Deploy Machine Learning Solutions on Vertex AI
-* Google, 2026            - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
-* Google, 2026            - Building Batch Data Pipelines on Google Cloud
+* School of AI            - Rust Programming bootcamp
+* Gourav Udemy            - Ultimate Docker Bootcampe for ML, GenAI
+* Toon Macharis           - Mastering Solidity
+
+* OCSALY Academy          - Ethical Hacking & Pentest Mastery
+* Kumar Udemy             - OWASP Security Testing
+* School of AI            - Quantum Computing for decision makers
+* School of AI            - Chief Technology Officer Mastery
+* School of AI            - Chief AI Officer Program
 
 
 
