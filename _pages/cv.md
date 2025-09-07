@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * B.E in Computer Science - Informatics Engineering , Gunadarma University, 2029 (expected)
+<br>
 
-
-Work experience
+Work Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -25,15 +25,16 @@ Work experience
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  <br>
+  <br>
 
-  
 Skills
 ======
 * Research & Publication
 * Prompt Engineering
   * System prompts for daily use (on portfolio)
 * Python
-  * More than 120+ project done (on Github)
+  * More than  project done (on Github)
 * Machine Learning
   * Scikit-learn
   * Tensorflow
@@ -46,78 +47,101 @@ Skills
   * Git & Github
   * Docker
   * Kubernetes
+<br>
+<br>
 
-
-Roadmap
+ML Eng (roadmap study)
 ======
 + Pandas - data analysis FakeProject on Economic field - Presentation portofolio
-
 + Khan Academy            - Statistics and Probability - Apply on FakeProject - Serious on this
                           - KPI: theory, concepts, tools
-
 + Khan/3Blue1Brown        - Linear Algebra & Calculus
                           - KPI : tools & rules
-
 + Infinite codes          - Simple ML Algorithm Mastery (initial concept before deep learning)
 + Stanford Online         - Statistical Learning with python
- 
 + Genius move             - Implement python from scratch and Scikit-learn using a dataset
+<br>
+<br>
 
-
-Certification
+Certification (roadmap)
 ======
-* Oracle, 2025            - AI Foundations Associate
-* Oracle, 2025            - Generative AI Professional
-* MTF Institute, 2025     - AI Powered Data & Product
-* IBM, 2025               - Code Generations and Optimization
-* IBM, 2025               - Data Classification and Summarization
-
-* School of AI, 2025      - Python Megaclass 300 Project
+* Oracle                  - AI Foundations Associate
+* Oracle                  - Generative AI Professional
+* IBM                     - Code Generations and Optimization
+* IBM                     - Data Classification and Summarization
+* MTF Institute           - AI Powered Data & Product
+* School of AI            - Python Megaclass 300 Project
 + Explore the Roadmap
+<br>
 
-* Google, 2026            - Store, Process, and Manage Data on Google Cloud Console
-* Google, 2026            - Gemini for Data Scientist and Analysis
-* Anton Udemy, 2026       - Data Analysis & Visualization with Microsoft Copilot
-* RCM Academy, 2026       - GDPR and Data Protection
-* Nasir Udemy             - Master BI, SSIS, SSRS, SSAS, & MDX
+* Google                  - Store, Process, and Manage Data on Google Cloud Console
+* John Burress            - Management consulting presentation essential
+* Starweaver Team         - Storytelling for Financial Advisors and Investment
+* Google                  - Gemini for Data Scientist and Analysis
+* Anton Udemy             - Data Analysis & Visualization with Microsoft Copilot
+* RCM Academy             - GDPR and Data Protection
+<br>
 
-* School of AI, 2026      - Power of MCP
-* Learnsector LLP, 2025   - Explore AGI
-* School of AI, 2026      - DeepSeek 25 Practical Project for AI Developers
+* School of AI            - Power of MCP
+* Learnsector LLP         - Explore AGI
+* Google                  - Use Machine Learning APIs on Google Cloud
+<br>
 
-
-* Google, 2025            - Use Machine Learning APIs on Google Cloud
-* Google, 2026            - Explore GenAI with the Gemini API in VertexAI
-* Google, 2026            - Prompt Design in VertexAI
-* School of AI, 2026      - LLM Engineer 100 Project
-
-* Google, 2026            - Develop GenAI Apps with Gemini and Streamlit
-* Google, 2026            - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+* School of AI            - DeepSeek 25 Practical Project for AI Developers
+* School of AI            - LLM Engineer 100 Project
+* Google                  - Explore GenAI with the Gemini API in VertexAI
+* Google                  - Prompt Design in VertexAI
 * Manthan Patel Udemy     - Cold Email Mastery with AI
+<br>
 
+* Google                  - Develop GenAI Apps with Gemini and Streamlit
+* Google                  - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
 * Jitendra Udemy          - 100+ Python Coding Practice Test
+* LunarTech AI            - DL Interview
+<br>
 
-* Google, 2026            - Advance ML on Google Cloud
-* Google, 2026            - Build and Deploy Machine Learning Solutions on Vertex AI
-* Google, 2026            - NLP on Google Cloud
-* Google, 2026            - Building Batch Data Pipelines on Google Cloud
+* Google                  - Advance ML on Google Cloud
+* Google                  - Build and Deploy Machine Learning Solutions on Vertex AI
+* Google                  - NLP on Google Cloud
+* Google                  - Building Batch Data Pipelines on Google Cloud
+<br>
+<br>
 
-* GenMan Solutions, 2026  - Product Manager
-* Infusion X, 2025        - Computer Engineering Mastery
-
-* LunarTech AI, 2026      - DL Interview
-* Bert Udemy, 2026        - PyTorch Ultimate
-
+Certification (additional)
+======
+* Infusion X              - Computer Engineering Mastery
+* Nasir Udemy             - Master BI, SSIS, SSRS, SSAS, & MDX
+* Bert Udemy              - PyTorch Ultimate
+* George Udemy            - MySQL, PostgreSQL, and MongoDB
+* Akash Udemy             - Terraform Simplified
 * School of AI            - Rust Programming bootcamp
 * Gourav Udemy            - Ultimate Docker Bootcampe for ML, GenAI
 * Toon Macharis           - Mastering Solidity
-
-* OCSALY Academy          - Ethical Hacking & Pentest Mastery
-* Kumar Udemy             - OWASP Security Testing
+* Armaan Udemy            - The Masterclass for IT Networking Fundamentals
+* Pragmatic Programmer    - Linux Command Line
 * School of AI            - Quantum Computing for decision makers
 * School of AI            - Chief Technology Officer Mastery
 * School of AI            - Chief AI Officer Program
+<br>
 
+* Starweaver              - Mastering Cybersecurity
+* OCSALY Academy          - Ethical Hacking & Pentest Mastery
+* Kumar Udemy             - OWASP Security Testing
+* Manish Udemy            - Anti-Money Laundering (AML) essentials
+<br>
+
+* GenMan Solutions        - Product Manager
+* MTF Institute           - Business strategy & innovation frameworks
+* Rodrigo Udemy           - Sales Fundamentals
+* Manthan Udemy           - Sales Funnel Mastery
+* Robert Udemy            - Financial Statement Analysis
+* John Burress            - Management consulting skills mastery 
+* John Burress            - Management consulting essential training
+* Starweaver Team         - Credit Risk Essentials: analytics, AI & underwriting
+* MTF Institute           - Advanced Supply Chain
+* GenMan Solutions        - HR Masterclass
+<br>
+<br>
 
 
 Publications
