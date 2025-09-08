@@ -98,6 +98,7 @@ Certification (roadmap)
 * Google                  - Develop GenAI Apps with Gemini and Streamlit
 * Google                  - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
 * Jitendra Udemy          - 100+ Python Coding Practice Test
+* Muhammad Udemy          - Learn SQL 100
 * LunarTech AI            - DL Interview
 <br>
 
