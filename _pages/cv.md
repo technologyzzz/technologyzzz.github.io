@@ -82,6 +82,7 @@ Certification (roadmap)
 * RCM Academy             - GDPR and Data Protection
 <br>
 
+* Amadur Udemy            - CS Mastery with AI
 * School of AI            - Power of MCP
 * Learnsector LLP         - Explore AGI
 * Google                  - Use Machine Learning APIs on Google Cloud
@@ -118,6 +119,8 @@ Certification (additional)
 * Gourav Udemy            - Ultimate Docker Bootcampe for ML, GenAI
 * Toon Macharis           - Mastering Solidity
 * Armaan Udemy            - The Masterclass for IT Networking Fundamentals
+* Salim Udemy             - Introduction to IOT
+* Mohamed Udemy           - FOTA project implementation
 * Pragmatic Programmer    - Linux Command Line
 * School of AI            - Quantum Computing for decision makers
 * School of AI            - Chief Technology Officer Mastery
