@@ -86,6 +86,8 @@ Certification (roadmap)
 * School of AI            - Power of MCP
 * Learnsector LLP         - Explore AGI
 * Google                  - Use Machine Learning APIs on Google Cloud
+* Manas Udemy             - Data architecture for Data engineers
+* 
 <br>
 
 * School of AI            - DeepSeek 25 Practical Project for AI Developers
@@ -97,9 +99,13 @@ Certification (roadmap)
 
 * Google                  - Develop GenAI Apps with Gemini and Streamlit
 * Google                  - Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+* Abhijeest               - Youtube Mastery course with AI
+<br>
+
 * Jitendra Udemy          - 100+ Python Coding Practice Test
 * Muhammad Udemy          - Learn SQL 100
 * LunarTech AI            - DL Interview
+* Meta Brains             - No-Code SaaS development
 <br>
 
 * Google                  - Advance ML on Google Cloud
@@ -134,6 +140,7 @@ Certification (additional)
 * Manish Udemy            - Anti-Money Laundering (AML) essentials
 <br>
 
+* Anton Udemy             - Google Veo
 * GenMan Solutions        - Product Manager
 * MTF Institute           - Business strategy & innovation frameworks
 * Rodrigo Udemy           - Sales Fundamentals
