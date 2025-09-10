@@ -74,6 +74,7 @@ Certification (roadmap)
 + Explore the Roadmap
 <br>
 
+* Meritshot               - Data Science Mastery
 * Google                  - Store, Process, and Manage Data on Google Cloud Console
 * John Burress            - Management consulting presentation essential
 * Starweaver Team         - Storytelling for Financial Advisors and Investment
