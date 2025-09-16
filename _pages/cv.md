@@ -70,25 +70,26 @@ Certification (roadmap)
 * IBM                     - Code Generations and Optimization
 * IBM                     - Data Classification and Summarization
 * MTF Institute           - AI Powered Data & Product
+* John Burress            - Management consulting presentation essential
 * School of AI            - Python Megaclass 300 Project
 + Explore the Roadmap
 <br>
 
-* Meritshot               - Data Science Mastery
+* Meritshot Academy       - Data Science Mastery
 * Google                  - Store, Process, and Manage Data on Google Cloud Console
-* John Burress            - Management consulting presentation essential
-* Starweaver Team         - Storytelling for Financial Advisors and Investment
 * Google                  - Gemini for Data Scientist and Analysis
 * Anton Udemy             - Data Analysis & Visualization with Microsoft Copilot
 * RCM Academy             - GDPR and Data Protection
+* Starweaver Team         - Storytelling for Financial Advisors and Investment
+
 <br>
 
+* Learnsector LLP         - Explore AGI
 * Amadur Udemy            - CS Mastery with AI
 * School of AI            - Power of MCP
-* Learnsector LLP         - Explore AGI
+* Start-Tech Academy      - Zero to hero in LangChain
 * Google                  - Use Machine Learning APIs on Google Cloud
 * Manas Udemy             - Data architecture for Data engineers
-* 
 <br>
 
 * School of AI            - DeepSeek 25 Practical Project for AI Developers
@@ -114,7 +115,8 @@ Certification (roadmap)
 * Google                  - NLP on Google Cloud
 * Google                  - Building Batch Data Pipelines on Google Cloud
 <br>
-<br>
+
+
 
 Certification (additional)
 ======
@@ -133,11 +135,13 @@ Certification (additional)
 * School of AI            - Quantum Computing for decision makers
 * School of AI            - Chief Technology Officer Mastery
 * School of AI            - Chief AI Officer Program
+* Techlink Selenium       - Ultimate YAML Course 
 <br>
 
 * Starweaver              - Mastering Cybersecurity
 * OCSALY Academy          - Ethical Hacking & Pentest Mastery
 * Kumar Udemy             - OWASP Security Testing
+* Jarno Baselier          - Offensive Security Pathway
 * Manish Udemy            - Anti-Money Laundering (AML) essentials
 <br>
 
@@ -152,6 +156,7 @@ Certification (additional)
 * Starweaver Team         - Credit Risk Essentials: analytics, AI & underwriting
 * MTF Institute           - Advanced Supply Chain
 * GenMan Solutions        - HR Masterclass
+* School of AI            - The Startup Founder's Roadmap
 <br>
 <br>
 
