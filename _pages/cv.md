@@ -124,6 +124,7 @@ Certification (additional)
 * Nasir Udemy             - Master BI, SSIS, SSRS, SSAS, & MDX
 * Bert Udemy              - PyTorch Ultimate
 * George Udemy            - MySQL, PostgreSQL, and MongoDB
+* TechLink Selenium       - Prometheus Masterclass
 * Akash Udemy             - Terraform Simplified
 * School of AI            - Rust Programming bootcamp
 * Gourav Udemy            - Ultimate Docker Bootcampe for ML, GenAI
